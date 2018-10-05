@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ClickImage</string>
+    <string name="action_settings">Settings</string>
+    <string name="droid_desserts">Droid Desserts</string>
+    <string name="donuts">Las donas son glaseadas y espolvoreadas con dulces.</string>
+    <string name="icecream">El helado tiene obleas de chocolate y relleno de vainilla.</string>
+    <string name="froyo">Froyo es un yogurt congelado de autoservicio premium.</string>
+
+    <string name="donut_order_message">Tu ordenaste una dona.</string>
+    <string name="ice_cream_order_message">Tu ordenaste un helado.</string>
+    <string name="froyo_order_message">Tu ordenaste un FroYo.</string>
+
+</resources>
